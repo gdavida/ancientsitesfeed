@@ -20,7 +20,7 @@ server.get('/', (req, res) => {
 	            "redirectionUrl": ""
 	        },  
 	        {
-	            "uid": "660de062-65c1-4bbb-924b-8e84cfa3b119",
+	            "uid": "660de062-65c1-4bbb-924b-8e84cfa3b120",
 	            "updateDate": "2020-07-18T08:20:00.0Z",
 	            "titleText": "Let's visit somewhere else.",
 	            "mainText": "Beep boop bop boop beep boop boop.",
