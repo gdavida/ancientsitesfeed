@@ -14,8 +14,8 @@ server.get('/', (req, res) => {
 			  {
 			    "uid": "ANCIENT_SITES_JSON_TTS_1",
 			    "updateDate": "2020-07-17T00:00:00.0Z",
-			    "titleText": "Let's visit Grimes Graves in England.",
-			    "mainText": "Today your tour brings you to Grimes Graves, a large flint mining complex in Norfolk, England. These mines were worked between 2600 and 2300 BC. Flint was in high demand during this time for use in polished stone axes. The mines extend over 91 acres with 433 shafts, some more than 46 feet deep and 39 feet in diameter.",
+			    "titleText": "The Ridgeway - Southwestern England and Wales",
+			    "mainText": "For more than 5,000 years travellers have used the Ridgeway, Britain's oldest road. Stretching 85 miles, it functioned for thousands of years as a reliable trading route. The high dry ground made travel easy and provided a measure of protection by giving traders a commanding view, warning against potential attacks. During the Iron Age, inhabitants took advantage of the high ground by building hillforts along the Ridgeway to help defend the trading route. In medieval times and later, the Ridgeway was used to move livestock from the West Country and Wales to markets in London. Before the Enclosure Acts of 1750, the Ridgeway existed as an informal series of tracks across the chalk downs, chosen by travellers based on path conditions. Once enclosures started, the current path developed through the building of earth banks and the planting of hedges.",
 			    "redirectionUrl": ""
 			   }
 	    ]
