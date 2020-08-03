@@ -12,10 +12,10 @@ server.get('/', (req, res) => {
 	.json(
 	    [
 			  {
-			    "uid": "ANCIENT_SITES_JSON_TTS_5",
-			    "updateDate": "2020-07-29T00:00:00.0Z",
-			    "titleText": "Bryn Celli Ddu - Wales",
-			    "mainText": "Bryn Celli Ddu is a prehistoric site on the Welsh island of Anglesey. Its name means 'the mound in the dark grove' and is generally considered to be one of the finest passage tombs in Wales. Visitors can enter through a stone passage to the burial chamber. Within the burial chamber is a mysterious pillar, a reproduction of the 'Pattern Stone', carved with sinuous serpentine designs. The site was also once a henge with a stone circle, and may have been used to plot the date of the summer solstice.",
+			    "uid": "ANCIENT_SITES_JSON_TTS_6",
+			    "updateDate": "2020-08-02T00:00:00.0Z",
+			    "titleText": Grimes Graves in Norfolk, England.",
+			    "mainText": "Today your tour brings you to Grimes Graves, a large flint mining complex in Norfolk, England. These mines were worked between 2600 and 2300 BC. Flint was in high demand during this time for use in polished stone axes. The mines extend over 91 acres with 433 shafts, some more than 46 feet deep and 39 feet in diameter.",
 			    "redirectionUrl": ""
 			   }
 	    ]
