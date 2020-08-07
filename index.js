@@ -12,10 +12,10 @@ server.get('/', (req, res) => {
 	.json(
 	    [
 			  {
-			    "uid": "ANCIENT_SITES_JSON_TTS_6",
-			    "updateDate": "2020-08-02T00:00:00.0Z",
-			    "titleText": Grimes Graves in Norfolk, England.",
-			    "mainText": "Today your tour brings you to Grimes Graves, a large flint mining complex in Norfolk, England. These mines were worked between 2600 and 2300 BC. Flint was in high demand during this time for use in polished stone axes. The mines extend over 91 acres with 433 shafts, some more than 46 feet deep and 39 feet in diameter.",
+			    "uid": "ANCIENT_SITES_JSON_TTS_8",
+			    "updateDate": "2020-08-07T00:00:00.0Z",
+			    "titleText": "Glastonbury Lake Village in Somerset, England",
+			    "mainText": "Glastonbury Lake Village in Somerset, England covers a site 400 feet  north to south by 300 feet east to west. It was first constructed 250 B.C. by laying down timber and clay. Wooden houses and barns were then built on the clay base and occupied by up to 200 people at any time until the village was abandoned around 50 B.C. Glastonbury is considered the best preserved prehistoric village ever found in the United Kingdom.",
 			    "redirectionUrl": ""
 			   }
 	    ]
