@@ -12,10 +12,10 @@ server.get('/', (req, res) => {
 	.json(
 	    [
 			  {
-			    "uid": "ANCIENT_SITES_JSON_TTS_9",
-			    "updateDate": "2020-08-08T00:00:00.0Z",
-			    "titleText": "Arbor Low in the Derbyshire Peak District, England",
-			    "mainText": "Arbor Low is a well-preserved Neolithic henge dating back 4000 years ago. About 50 large limestone blocks, quarried from a local site,  form an egg-shaped circle. There were probably 41-43 stones originally, but some are now in fragments.They range in size from about 5 ft to 7 ft, with monoliths of between 8 and a half to 9 and a half ft. One stone is partially upright; the rest are all lying flat. Although it is often stated that the stones have never stood upright, it is possible that they had originally been set upright in shallow stone holes. In the centre of the circle lie at least six smaller blocks, originally believed to have been set in a rectangle, known as the cove.",
+			    "uid": "ANCIENT_SITES_JSON_TTS_10",
+			    "updateDate": "2020-08-09T00:00:00.0Z",
+			    "titleText": "Bats Castle in Somerset, England",
+			    "mainText": "Bats Castle is an Iron Age hill fort at the top of a hill in Somerset, England. The site was identified in 1983 after schoolboys found silver-plated coins dating from 102BC to AD350. It is on the highest point of Gallox Hill. Previously it was known as Caesar's Camp and is possibly associated with Black Ball Camp. Bat's Castle has two stone ramparts and two ditches. The ramparts are damaged in places and the hill fort is partly covered in scrub. Bat's Castle may once have been known as the legendary fortress Din Draithou, a place also associated with a fortress built or used by the legendary Irish king and raider Crimthann mac Fidaig.",
 			    "redirectionUrl": ""
 			   }
 	    ]
