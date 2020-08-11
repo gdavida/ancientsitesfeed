@@ -6,16 +6,17 @@ server.use(express.json());
 const PORT = process.env.PORT || 3000;
 
 
+
 server.get('/', (req, res) => {
 	res
 	.set('Content-Type', 'application/json')
 	.json(
 	    [
 			  {
-			    "uid": "ANCIENT_SITES_JSON_TTS_10",
-			    "updateDate": "2020-08-09T00:00:00.0Z",
-			    "titleText": "Bats Castle in Somerset, England",
-			    "mainText": "Bats Castle is an Iron Age hill fort at the top of a hill in Somerset, England. The site was identified in 1983 after schoolboys found silver-plated coins dating from 102BC to AD350. It is on the highest point of Gallox Hill. Previously it was known as Caesar's Camp and is possibly associated with Black Ball Camp. Bat's Castle has two stone ramparts and two ditches. The ramparts are damaged in places and the hill fort is partly covered in scrub. Bat's Castle may once have been known as the legendary fortress Din Draithou, a place also associated with a fortress built or used by the legendary Irish king and raider Crimthann mac Fidaig.",
+			    "uid": "ANCIENT_SITES_JSON_TTS_11",
+			    "updateDate": "2020-08-10T00:00:00.0Z",
+			    "titleText": "Mên-an-Tol in Cornwall, UK",
+			    "mainText": "The Mên-an-Tol is a small formation of standing stones in Cornwall, UK. It is also known locally as the "Crick Stone".	The Mên-an-Tol consists of three upright granite stones: a round stone with its middle holed out with two standing stones to each side, in front of and behind the hole. When seen at an angle from one side, the stones form a three-dimensional "101." The Mên-an-Tol is thought to date to 3500 years ago, and that the holed stone could have been a natural occurrence rather than deliberately sculpted. Mên-an-Tol is supposed to have a fairy or piskie guardian who can make miraculous cures.",
 			    "redirectionUrl": ""
 			   }
 	    ]
